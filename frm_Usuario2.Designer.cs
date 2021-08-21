@@ -204,7 +204,7 @@ namespace Biblioteca
             this.txt_correo.Location = new System.Drawing.Point(104, 64);
             this.txt_correo.Margin = new System.Windows.Forms.Padding(4);
             this.txt_correo.Name = "txt_correo";
-            this.txt_correo.Size = new System.Drawing.Size(243, 34);
+            this.txt_correo.Size = new System.Drawing.Size(244, 34);
             this.txt_correo.TabIndex = 7;
             // 
             // label6
@@ -212,7 +212,7 @@ namespace Biblioteca
             this.label6.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(726, 68);
+            this.label6.Location = new System.Drawing.Point(728, 68);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(108, 25);
@@ -223,10 +223,10 @@ namespace Biblioteca
             // 
             this.txt_tcelular.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.txt_tcelular.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_tcelular.Location = new System.Drawing.Point(856, 64);
+            this.txt_tcelular.Location = new System.Drawing.Point(858, 64);
             this.txt_tcelular.Margin = new System.Windows.Forms.Padding(4);
             this.txt_tcelular.Name = "txt_tcelular";
-            this.txt_tcelular.Size = new System.Drawing.Size(243, 34);
+            this.txt_tcelular.Size = new System.Drawing.Size(244, 34);
             this.txt_tcelular.TabIndex = 11;
             // 
             // label1
@@ -248,7 +248,7 @@ namespace Biblioteca
             this.txt_nombre.Location = new System.Drawing.Point(104, 10);
             this.txt_nombre.Margin = new System.Windows.Forms.Padding(4);
             this.txt_nombre.Name = "txt_nombre";
-            this.txt_nombre.Size = new System.Drawing.Size(243, 34);
+            this.txt_nombre.Size = new System.Drawing.Size(244, 34);
             this.txt_nombre.TabIndex = 1;
             // 
             // label2
@@ -256,7 +256,7 @@ namespace Biblioteca
             this.label2.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(355, 14);
+            this.label2.Location = new System.Drawing.Point(356, 14);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(110, 25);
@@ -267,10 +267,10 @@ namespace Biblioteca
             // 
             this.txt_apaterno.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.txt_apaterno.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_apaterno.Location = new System.Drawing.Point(475, 10);
+            this.txt_apaterno.Location = new System.Drawing.Point(476, 10);
             this.txt_apaterno.Margin = new System.Windows.Forms.Padding(4);
             this.txt_apaterno.Name = "txt_apaterno";
-            this.txt_apaterno.Size = new System.Drawing.Size(243, 34);
+            this.txt_apaterno.Size = new System.Drawing.Size(244, 34);
             this.txt_apaterno.TabIndex = 3;
             // 
             // label3
@@ -279,7 +279,7 @@ namespace Biblioteca
             this.label3.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(726, 14);
+            this.label3.Location = new System.Drawing.Point(728, 14);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(114, 25);
@@ -290,20 +290,20 @@ namespace Biblioteca
             // 
             this.txt_amaterno.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.txt_amaterno.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_amaterno.Location = new System.Drawing.Point(856, 10);
+            this.txt_amaterno.Location = new System.Drawing.Point(858, 10);
             this.txt_amaterno.Margin = new System.Windows.Forms.Padding(4);
             this.txt_amaterno.Name = "txt_amaterno";
-            this.txt_amaterno.Size = new System.Drawing.Size(243, 34);
+            this.txt_amaterno.Size = new System.Drawing.Size(244, 34);
             this.txt_amaterno.TabIndex = 5;
             // 
             // txt_tfijo
             // 
             this.txt_tfijo.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.txt_tfijo.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_tfijo.Location = new System.Drawing.Point(475, 64);
+            this.txt_tfijo.Location = new System.Drawing.Point(476, 64);
             this.txt_tfijo.Margin = new System.Windows.Forms.Padding(4);
             this.txt_tfijo.Name = "txt_tfijo";
-            this.txt_tfijo.Size = new System.Drawing.Size(243, 34);
+            this.txt_tfijo.Size = new System.Drawing.Size(244, 34);
             this.txt_tfijo.TabIndex = 9;
             // 
             // label5
@@ -311,7 +311,7 @@ namespace Biblioteca
             this.label5.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(355, 68);
+            this.label5.Location = new System.Drawing.Point(356, 68);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(77, 25);
@@ -361,6 +361,7 @@ namespace Biblioteca
             this.idDataGridViewTextBoxColumn.HeaderText = "Id";
             this.idDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.idDataGridViewTextBoxColumn.Name = "idDataGridViewTextBoxColumn";
+            this.idDataGridViewTextBoxColumn.ReadOnly = true;
             this.idDataGridViewTextBoxColumn.Visible = false;
             // 
             // Nombre_Completo
@@ -369,6 +370,7 @@ namespace Biblioteca
             this.Nombre_Completo.HeaderText = "Nombre Completo";
             this.Nombre_Completo.MinimumWidth = 6;
             this.Nombre_Completo.Name = "Nombre_Completo";
+            this.Nombre_Completo.ReadOnly = true;
             // 
             // nombreDataGridViewTextBoxColumn
             // 
@@ -376,6 +378,7 @@ namespace Biblioteca
             this.nombreDataGridViewTextBoxColumn.HeaderText = "Nombre";
             this.nombreDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.nombreDataGridViewTextBoxColumn.Name = "nombreDataGridViewTextBoxColumn";
+            this.nombreDataGridViewTextBoxColumn.ReadOnly = true;
             this.nombreDataGridViewTextBoxColumn.Visible = false;
             // 
             // apellidoPaternoDataGridViewTextBoxColumn
@@ -384,6 +387,7 @@ namespace Biblioteca
             this.apellidoPaternoDataGridViewTextBoxColumn.HeaderText = "Apellido Paterno";
             this.apellidoPaternoDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.apellidoPaternoDataGridViewTextBoxColumn.Name = "apellidoPaternoDataGridViewTextBoxColumn";
+            this.apellidoPaternoDataGridViewTextBoxColumn.ReadOnly = true;
             this.apellidoPaternoDataGridViewTextBoxColumn.Visible = false;
             // 
             // apellidoMaternoDataGridViewTextBoxColumn
@@ -392,6 +396,7 @@ namespace Biblioteca
             this.apellidoMaternoDataGridViewTextBoxColumn.HeaderText = "Apellido Materno";
             this.apellidoMaternoDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.apellidoMaternoDataGridViewTextBoxColumn.Name = "apellidoMaternoDataGridViewTextBoxColumn";
+            this.apellidoMaternoDataGridViewTextBoxColumn.ReadOnly = true;
             this.apellidoMaternoDataGridViewTextBoxColumn.Visible = false;
             // 
             // telefonoDataGridViewTextBoxColumn
@@ -400,6 +405,7 @@ namespace Biblioteca
             this.telefonoDataGridViewTextBoxColumn.HeaderText = "Telefono";
             this.telefonoDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.telefonoDataGridViewTextBoxColumn.Name = "telefonoDataGridViewTextBoxColumn";
+            this.telefonoDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // celularDataGridViewTextBoxColumn
             // 
@@ -407,6 +413,7 @@ namespace Biblioteca
             this.celularDataGridViewTextBoxColumn.HeaderText = "Celular";
             this.celularDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.celularDataGridViewTextBoxColumn.Name = "celularDataGridViewTextBoxColumn";
+            this.celularDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // correoDataGridViewTextBoxColumn
             // 
@@ -414,6 +421,7 @@ namespace Biblioteca
             this.correoDataGridViewTextBoxColumn.HeaderText = "Correo";
             this.correoDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.correoDataGridViewTextBoxColumn.Name = "correoDataGridViewTextBoxColumn";
+            this.correoDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // spListarUsuarioBindingSource
             // 
@@ -427,7 +435,7 @@ namespace Biblioteca
             // 
             // txt_filtrar
             // 
-            this.txt_filtrar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.txt_filtrar.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txt_filtrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_filtrar.Location = new System.Drawing.Point(154, 29);
             this.txt_filtrar.Margin = new System.Windows.Forms.Padding(4);
@@ -443,9 +451,9 @@ namespace Biblioteca
             this.tableLayoutPanel4.ColumnCount = 6;
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 150F));
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 133F));
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 136F));
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 128F));
+            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
+            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
+            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 32F));
             this.tableLayoutPanel4.Controls.Add(this.cb_filtrar, 0, 0);
             this.tableLayoutPanel4.Controls.Add(this.btn_AgregarUsuario, 2, 0);

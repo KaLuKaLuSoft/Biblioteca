@@ -357,7 +357,6 @@ namespace Biblioteca
             // panelDesktop
             // 
             this.panelDesktop.AutoSize = true;
-            this.panelDesktop.BackgroundImage = global::Biblioteca.Properties.Resources.biblioteca;
             this.panelDesktop.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panelDesktop.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelDesktop.Location = new System.Drawing.Point(213, 48);

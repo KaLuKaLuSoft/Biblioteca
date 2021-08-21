@@ -74,72 +74,67 @@ namespace Biblioteca
             // 
             // txt_nombre
             // 
-            this.txt_nombre.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txt_nombre.Location = new System.Drawing.Point(71, 15);
-            this.txt_nombre.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_nombre.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txt_nombre.Location = new System.Drawing.Point(95, 18);
+            this.txt_nombre.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txt_nombre.Name = "txt_nombre";
             this.txt_nombre.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.txt_nombre.Size = new System.Drawing.Size(174, 20);
+            this.txt_nombre.Size = new System.Drawing.Size(231, 22);
             this.txt_nombre.TabIndex = 5;
             // 
             // txt_apaterno
             // 
-            this.txt_apaterno.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txt_apaterno.Location = new System.Drawing.Point(324, 15);
-            this.txt_apaterno.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_apaterno.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txt_apaterno.Location = new System.Drawing.Point(432, 18);
+            this.txt_apaterno.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txt_apaterno.Name = "txt_apaterno";
             this.txt_apaterno.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.txt_apaterno.Size = new System.Drawing.Size(174, 20);
+            this.txt_apaterno.Size = new System.Drawing.Size(231, 22);
             this.txt_apaterno.TabIndex = 6;
             // 
             // txt_amaterno
             // 
-            this.txt_amaterno.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txt_amaterno.Location = new System.Drawing.Point(596, 17);
-            this.txt_amaterno.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_amaterno.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txt_amaterno.Location = new System.Drawing.Point(795, 21);
+            this.txt_amaterno.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txt_amaterno.Name = "txt_amaterno";
             this.txt_amaterno.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.txt_amaterno.Size = new System.Drawing.Size(174, 20);
+            this.txt_amaterno.Size = new System.Drawing.Size(231, 22);
             this.txt_amaterno.TabIndex = 7;
             // 
             // txt_correo
             // 
-            this.txt_correo.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txt_correo.Location = new System.Drawing.Point(71, 83);
-            this.txt_correo.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_correo.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txt_correo.Location = new System.Drawing.Point(95, 102);
+            this.txt_correo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txt_correo.Name = "txt_correo";
             this.txt_correo.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.txt_correo.Size = new System.Drawing.Size(174, 20);
+            this.txt_correo.Size = new System.Drawing.Size(231, 22);
             this.txt_correo.TabIndex = 8;
             // 
             // txt_tfijo
             // 
-            this.txt_tfijo.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txt_tfijo.Location = new System.Drawing.Point(324, 83);
-            this.txt_tfijo.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_tfijo.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txt_tfijo.Location = new System.Drawing.Point(432, 102);
+            this.txt_tfijo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txt_tfijo.Name = "txt_tfijo";
             this.txt_tfijo.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.txt_tfijo.Size = new System.Drawing.Size(174, 20);
+            this.txt_tfijo.Size = new System.Drawing.Size(231, 22);
             this.txt_tfijo.TabIndex = 9;
             // 
             // txt_tcelular
             // 
-            this.txt_tcelular.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txt_tcelular.Location = new System.Drawing.Point(596, 83);
-            this.txt_tcelular.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_tcelular.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txt_tcelular.Location = new System.Drawing.Point(795, 102);
+            this.txt_tcelular.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txt_tcelular.Name = "txt_tcelular";
             this.txt_tcelular.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.txt_tcelular.Size = new System.Drawing.Size(174, 20);
+            this.txt_tcelular.Size = new System.Drawing.Size(231, 22);
             this.txt_tcelular.TabIndex = 10;
             // 
             // P_Usuarios
             // 
+            this.P_Usuarios.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.P_Usuarios.Controls.Add(this.btn_ActualizarUsuario);
             this.P_Usuarios.Controls.Add(this.txt_filtrar);
             this.P_Usuarios.Controls.Add(this.cb_filtrar);
@@ -157,21 +152,22 @@ namespace Biblioteca
             this.P_Usuarios.Controls.Add(this.txt_amaterno);
             this.P_Usuarios.Controls.Add(this.txt_correo);
             this.P_Usuarios.Controls.Add(this.btn_EliminarUsuario);
-            this.P_Usuarios.Location = new System.Drawing.Point(-2, 104);
-            this.P_Usuarios.Margin = new System.Windows.Forms.Padding(2);
+            this.P_Usuarios.Location = new System.Drawing.Point(-3, 128);
+            this.P_Usuarios.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.P_Usuarios.Name = "P_Usuarios";
-            this.P_Usuarios.Size = new System.Drawing.Size(827, 188);
+            this.P_Usuarios.Size = new System.Drawing.Size(1103, 231);
             this.P_Usuarios.TabIndex = 11;
             // 
             // btn_ActualizarUsuario
             // 
+            this.btn_ActualizarUsuario.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btn_ActualizarUsuario.BackgroundImage = global::Biblioteca.Properties.Resources.pngwing_com__2_;
             this.btn_ActualizarUsuario.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn_ActualizarUsuario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_ActualizarUsuario.Location = new System.Drawing.Point(596, 117);
-            this.btn_ActualizarUsuario.Margin = new System.Windows.Forms.Padding(2);
+            this.btn_ActualizarUsuario.Location = new System.Drawing.Point(795, 144);
+            this.btn_ActualizarUsuario.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_ActualizarUsuario.Name = "btn_ActualizarUsuario";
-            this.btn_ActualizarUsuario.Size = new System.Drawing.Size(70, 63);
+            this.btn_ActualizarUsuario.Size = new System.Drawing.Size(93, 78);
             this.btn_ActualizarUsuario.TabIndex = 20;
             this.btn_ActualizarUsuario.UseVisualStyleBackColor = false;
             this.btn_ActualizarUsuario.Visible = false;
@@ -179,114 +175,116 @@ namespace Biblioteca
             // 
             // txt_filtrar
             // 
-            this.txt_filtrar.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txt_filtrar.Location = new System.Drawing.Point(148, 141);
-            this.txt_filtrar.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_filtrar.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txt_filtrar.Location = new System.Drawing.Point(197, 174);
+            this.txt_filtrar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txt_filtrar.Name = "txt_filtrar";
-            this.txt_filtrar.Size = new System.Drawing.Size(620, 20);
+            this.txt_filtrar.Size = new System.Drawing.Size(825, 22);
             this.txt_filtrar.TabIndex = 19;
             this.txt_filtrar.Visible = false;
             this.txt_filtrar.TextChanged += new System.EventHandler(this.txt_filtrar_TextChanged);
             // 
             // cb_filtrar
             // 
+            this.cb_filtrar.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.cb_filtrar.FormattingEnabled = true;
             this.cb_filtrar.Items.AddRange(new object[] {
             "Nombre Completo",
             "Teléfono",
             "Celular",
             "Correo"});
-            this.cb_filtrar.Location = new System.Drawing.Point(20, 140);
-            this.cb_filtrar.Margin = new System.Windows.Forms.Padding(2);
+            this.cb_filtrar.Location = new System.Drawing.Point(27, 172);
+            this.cb_filtrar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cb_filtrar.Name = "cb_filtrar";
-            this.cb_filtrar.Size = new System.Drawing.Size(108, 21);
+            this.cb_filtrar.Size = new System.Drawing.Size(143, 24);
             this.cb_filtrar.TabIndex = 18;
             this.cb_filtrar.Text = "Seleccione...";
             this.cb_filtrar.Visible = false;
             // 
             // btn_AgregarUsuario
             // 
+            this.btn_AgregarUsuario.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btn_AgregarUsuario.BackgroundImage = global::Biblioteca.Properties.Resources.pngwing_com__5_;
             this.btn_AgregarUsuario.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn_AgregarUsuario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_AgregarUsuario.Location = new System.Drawing.Point(355, 117);
-            this.btn_AgregarUsuario.Margin = new System.Windows.Forms.Padding(2);
+            this.btn_AgregarUsuario.Location = new System.Drawing.Point(473, 144);
+            this.btn_AgregarUsuario.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_AgregarUsuario.Name = "btn_AgregarUsuario";
-            this.btn_AgregarUsuario.Size = new System.Drawing.Size(70, 63);
+            this.btn_AgregarUsuario.Size = new System.Drawing.Size(93, 78);
             this.btn_AgregarUsuario.TabIndex = 17;
             this.btn_AgregarUsuario.UseVisualStyleBackColor = true;
             this.btn_AgregarUsuario.Click += new System.EventHandler(this.btn_AgregarUsuario_Click);
             // 
             // lbl_TCelular
             // 
+            this.lbl_TCelular.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lbl_TCelular.AutoSize = true;
-            this.lbl_TCelular.Location = new System.Drawing.Point(518, 87);
-            this.lbl_TCelular.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbl_TCelular.Location = new System.Drawing.Point(691, 107);
             this.lbl_TCelular.Name = "lbl_TCelular";
-            this.lbl_TCelular.Size = new System.Drawing.Size(58, 13);
+            this.lbl_TCelular.Size = new System.Drawing.Size(77, 17);
             this.lbl_TCelular.TabIndex = 16;
             this.lbl_TCelular.Text = "T. Celular :";
             // 
             // lbl_TFijo
             // 
+            this.lbl_TFijo.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lbl_TFijo.AutoSize = true;
-            this.lbl_TFijo.Location = new System.Drawing.Point(257, 87);
-            this.lbl_TFijo.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbl_TFijo.Location = new System.Drawing.Point(343, 107);
             this.lbl_TFijo.Name = "lbl_TFijo";
-            this.lbl_TFijo.Size = new System.Drawing.Size(42, 13);
+            this.lbl_TFijo.Size = new System.Drawing.Size(55, 17);
             this.lbl_TFijo.TabIndex = 15;
             this.lbl_TFijo.Text = "T. Fijo :";
             // 
             // lbl_correo
             // 
+            this.lbl_correo.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lbl_correo.AutoSize = true;
-            this.lbl_correo.Location = new System.Drawing.Point(17, 85);
-            this.lbl_correo.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbl_correo.Location = new System.Drawing.Point(23, 105);
             this.lbl_correo.Name = "lbl_correo";
-            this.lbl_correo.Size = new System.Drawing.Size(44, 13);
+            this.lbl_correo.Size = new System.Drawing.Size(59, 17);
             this.lbl_correo.TabIndex = 14;
             this.lbl_correo.Text = "Correo :";
             // 
             // lbl_AMaterno
             // 
+            this.lbl_AMaterno.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lbl_AMaterno.AutoSize = true;
-            this.lbl_AMaterno.Location = new System.Drawing.Point(518, 19);
-            this.lbl_AMaterno.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbl_AMaterno.Location = new System.Drawing.Point(691, 23);
             this.lbl_AMaterno.Name = "lbl_AMaterno";
-            this.lbl_AMaterno.Size = new System.Drawing.Size(65, 13);
+            this.lbl_AMaterno.Size = new System.Drawing.Size(85, 17);
             this.lbl_AMaterno.TabIndex = 13;
             this.lbl_AMaterno.Text = "A. Materno :";
             // 
             // lbl_APaterno
             // 
+            this.lbl_APaterno.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lbl_APaterno.AutoSize = true;
-            this.lbl_APaterno.Location = new System.Drawing.Point(257, 19);
-            this.lbl_APaterno.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbl_APaterno.Location = new System.Drawing.Point(343, 23);
             this.lbl_APaterno.Name = "lbl_APaterno";
-            this.lbl_APaterno.Size = new System.Drawing.Size(63, 13);
+            this.lbl_APaterno.Size = new System.Drawing.Size(83, 17);
             this.lbl_APaterno.TabIndex = 12;
             this.lbl_APaterno.Text = "A. Paterno :";
             // 
             // lbl_nombre
             // 
+            this.lbl_nombre.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lbl_nombre.AutoSize = true;
-            this.lbl_nombre.Location = new System.Drawing.Point(17, 17);
-            this.lbl_nombre.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbl_nombre.Location = new System.Drawing.Point(23, 21);
             this.lbl_nombre.Name = "lbl_nombre";
-            this.lbl_nombre.Size = new System.Drawing.Size(50, 13);
+            this.lbl_nombre.Size = new System.Drawing.Size(66, 17);
             this.lbl_nombre.TabIndex = 11;
             this.lbl_nombre.Text = "Nombre :";
             // 
             // btn_EliminarUsuario
             // 
+            this.btn_EliminarUsuario.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btn_EliminarUsuario.BackgroundImage = global::Biblioteca.Properties.Resources.pngwing_com__6_;
             this.btn_EliminarUsuario.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn_EliminarUsuario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_EliminarUsuario.Location = new System.Drawing.Point(355, 117);
-            this.btn_EliminarUsuario.Margin = new System.Windows.Forms.Padding(2);
+            this.btn_EliminarUsuario.Location = new System.Drawing.Point(473, 144);
+            this.btn_EliminarUsuario.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_EliminarUsuario.Name = "btn_EliminarUsuario";
-            this.btn_EliminarUsuario.Size = new System.Drawing.Size(70, 63);
+            this.btn_EliminarUsuario.Size = new System.Drawing.Size(93, 78);
             this.btn_EliminarUsuario.TabIndex = 21;
             this.btn_EliminarUsuario.UseVisualStyleBackColor = false;
             this.btn_EliminarUsuario.Visible = false;
@@ -317,14 +315,14 @@ namespace Biblioteca
             this.celularDataGridViewTextBoxColumn,
             this.correoDataGridViewTextBoxColumn});
             this.dg_usuarios.DataSource = this.spListarUsuarioBindingSource;
-            this.dg_usuarios.Location = new System.Drawing.Point(-2, 289);
-            this.dg_usuarios.Margin = new System.Windows.Forms.Padding(2);
+            this.dg_usuarios.Location = new System.Drawing.Point(-3, 356);
+            this.dg_usuarios.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dg_usuarios.Name = "dg_usuarios";
             this.dg_usuarios.ReadOnly = true;
             this.dg_usuarios.RowHeadersWidth = 51;
             this.dg_usuarios.RowTemplate.Height = 24;
             this.dg_usuarios.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dg_usuarios.Size = new System.Drawing.Size(827, 344);
+            this.dg_usuarios.Size = new System.Drawing.Size(1103, 423);
             this.dg_usuarios.TabIndex = 12;
             this.dg_usuarios.CellContentDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dg_usuarios_CellContentDoubleClick);
             // 
@@ -416,52 +414,56 @@ namespace Biblioteca
             // 
             // btn_Filtrar
             // 
+            this.btn_Filtrar.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btn_Filtrar.BackgroundImage = global::Biblioteca.Properties.Resources.pngwing_com__4_;
             this.btn_Filtrar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn_Filtrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_Filtrar.Location = new System.Drawing.Point(377, 10);
-            this.btn_Filtrar.Margin = new System.Windows.Forms.Padding(2);
+            this.btn_Filtrar.Location = new System.Drawing.Point(503, 12);
+            this.btn_Filtrar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_Filtrar.Name = "btn_Filtrar";
-            this.btn_Filtrar.Size = new System.Drawing.Size(104, 81);
+            this.btn_Filtrar.Size = new System.Drawing.Size(139, 100);
             this.btn_Filtrar.TabIndex = 4;
             this.btn_Filtrar.UseVisualStyleBackColor = true;
             this.btn_Filtrar.Click += new System.EventHandler(this.btn_Filtrar_Click);
             // 
             // btn_Eliminar
             // 
+            this.btn_Eliminar.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btn_Eliminar.BackgroundImage = global::Biblioteca.Properties.Resources.pngwing_com__3_;
             this.btn_Eliminar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn_Eliminar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_Eliminar.Location = new System.Drawing.Point(257, 10);
-            this.btn_Eliminar.Margin = new System.Windows.Forms.Padding(2);
+            this.btn_Eliminar.Location = new System.Drawing.Point(343, 12);
+            this.btn_Eliminar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_Eliminar.Name = "btn_Eliminar";
-            this.btn_Eliminar.Size = new System.Drawing.Size(104, 81);
+            this.btn_Eliminar.Size = new System.Drawing.Size(139, 100);
             this.btn_Eliminar.TabIndex = 3;
             this.btn_Eliminar.UseVisualStyleBackColor = true;
             this.btn_Eliminar.Click += new System.EventHandler(this.btn_Eliminar_Click);
             // 
             // btn_Actualizar
             // 
+            this.btn_Actualizar.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btn_Actualizar.BackgroundImage = global::Biblioteca.Properties.Resources.pngwing_com__2_;
             this.btn_Actualizar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn_Actualizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_Actualizar.Location = new System.Drawing.Point(132, 10);
-            this.btn_Actualizar.Margin = new System.Windows.Forms.Padding(2);
+            this.btn_Actualizar.Location = new System.Drawing.Point(176, 12);
+            this.btn_Actualizar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_Actualizar.Name = "btn_Actualizar";
-            this.btn_Actualizar.Size = new System.Drawing.Size(104, 81);
+            this.btn_Actualizar.Size = new System.Drawing.Size(139, 100);
             this.btn_Actualizar.TabIndex = 2;
             this.btn_Actualizar.UseVisualStyleBackColor = true;
             this.btn_Actualizar.Click += new System.EventHandler(this.btn_Actualizar_Click);
             // 
             // btn_Agregar
             // 
+            this.btn_Agregar.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btn_Agregar.BackgroundImage = global::Biblioteca.Properties.Resources.pngwing_com__1_;
             this.btn_Agregar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn_Agregar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_Agregar.Location = new System.Drawing.Point(9, 10);
-            this.btn_Agregar.Margin = new System.Windows.Forms.Padding(2);
+            this.btn_Agregar.Location = new System.Drawing.Point(12, 12);
+            this.btn_Agregar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_Agregar.Name = "btn_Agregar";
-            this.btn_Agregar.Size = new System.Drawing.Size(104, 81);
+            this.btn_Agregar.Size = new System.Drawing.Size(139, 100);
             this.btn_Agregar.TabIndex = 1;
             this.btn_Agregar.UseVisualStyleBackColor = true;
             this.btn_Agregar.Click += new System.EventHandler(this.btn_Agregar_Click);
@@ -469,10 +471,10 @@ namespace Biblioteca
             // P_Fondo
             // 
             this.P_Fondo.Image = global::Biblioteca.Properties.Resources.biblioteca;
-            this.P_Fondo.Location = new System.Drawing.Point(-2, 104);
-            this.P_Fondo.Margin = new System.Windows.Forms.Padding(2);
+            this.P_Fondo.Location = new System.Drawing.Point(-3, 128);
+            this.P_Fondo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.P_Fondo.Name = "P_Fondo";
-            this.P_Fondo.Size = new System.Drawing.Size(830, 521);
+            this.P_Fondo.Size = new System.Drawing.Size(1107, 641);
             this.P_Fondo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.P_Fondo.TabIndex = 14;
             this.P_Fondo.TabStop = false;
@@ -480,10 +482,10 @@ namespace Biblioteca
             // 
             // frm_Usuario
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(826, 627);
+            this.ClientSize = new System.Drawing.Size(1101, 772);
             this.Controls.Add(this.dg_usuarios);
             this.Controls.Add(this.P_Usuarios);
             this.Controls.Add(this.btn_Filtrar);
@@ -491,9 +493,8 @@ namespace Biblioteca
             this.Controls.Add(this.btn_Actualizar);
             this.Controls.Add(this.btn_Agregar);
             this.Controls.Add(this.P_Fondo);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2);
-            this.MaximizeBox = false;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "frm_Usuario";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Usuarios";

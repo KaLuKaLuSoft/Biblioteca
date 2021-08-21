@@ -43,10 +43,6 @@
     <Reference Include="Capa Negocio">
       <HintPath>Capa Negocio\bin\Debug\Capa Negocio.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Data.Desktop.v20.2, Version=20.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.Data.v20.2, Version=20.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.Utils.v20.2, Version=20.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.XtraBars.v20.2, Version=20.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="FontAwesome.Sharp, Version=5.15.3.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\FontAwesome.Sharp.5.15.3\lib\net45\FontAwesome.Sharp.dll</HintPath>
     </Reference>
@@ -90,6 +86,12 @@
     <Compile Include="frm_Principal2.Designer.cs">
       <DependentUpon>frm_Principal2.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_Rol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Rol.Designer.cs">
+      <DependentUpon>frm_Rol.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_Usuario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -112,6 +114,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frm_Principal2.resx">
       <DependentUpon>frm_Principal2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Rol.resx">
+      <DependentUpon>frm_Rol.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_Usuario.resx">
       <DependentUpon>frm_Usuario.cs</DependentUpon>
